@@ -1,6 +1,6 @@
 # 🏝️ Mpambije Balli — Welcome in Tanzania 🇹🇿
 
-**Developer:** Victor Mpambije  
+**Developer:** Allan Deus  
 **Language & Stack:** TypeScript | HTML | CSS | JavaScript | Node.js (optional)  
 
 ---
@@ -33,7 +33,7 @@ The goal of this project is to create a simple, elegant, and responsive experien
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Veenbreeze/ern-auth-starter.git
+   git clone https://github.com/allan818181/ern-auth-starter
 
 
    installation
